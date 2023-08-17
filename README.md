@@ -1,2 +1,2 @@
 # dms-scripts
- PHP scripts runned as scheduled jobs in Dms Portal
+ PHP scripts running as scheduled jobs in Dms Portal
